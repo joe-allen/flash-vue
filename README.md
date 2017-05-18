@@ -20,7 +20,7 @@ Flash-Vue is an educational progress web application (PWA). The main goal of Fla
 - [ ] Google business account (before May 20th).
 - [ ] Test on IE Edge (14+)
 - [ ] Make business cards
-- [ ] Forgot password page, <hr> line not as thick
+- [ ] Forgot password page, horz row not as thick
 - [ ] Remove green border on forms unless you're actually going to have some validation (implement http://vee-validate.logaretm.com/)
 - [ ] Remember to cache AJAX routes (look for axios calls). (may need to use something else besides UpUp since it may not had an array of urls to cache)
 - [ ] WebPack / Gzip: https://forum-archive.vuejs.org/topic/4059/adding-gzip-to-webpack-using-compression-plugin/6
