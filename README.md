@@ -2,7 +2,7 @@
 Learn anything from anywhere, anytime.
 
 # Introduction
-Flash-Vue is an educational progress web application (PWA). The main goal of Flash-Vue is to provide a resource for those needing to memorize, learn or study anything from anywhere at anytime, regardless of their internet connection (thanks to current web technologies).
+Flash-Vue is an educational progressive web application (PWA). The main goal of Flash-Vue is to provide a resource for those needing to memorize, learn or study anything from anywhere at anytime, regardless of their internet connection (thanks to current web technologies).
 
 ## TODO:
 - [ ] Fix, altering readonly attribute not compatible on IE
